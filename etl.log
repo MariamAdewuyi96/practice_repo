@@ -1,0 +1,2 @@
+2026-04-24 21:37:41,483 - ERROR - connection error: expected string or bytes-like object, got 'NoneType'
+2026-04-24 21:37:41,483 - ERROR - Error loading: name 'dfs' is not defined
